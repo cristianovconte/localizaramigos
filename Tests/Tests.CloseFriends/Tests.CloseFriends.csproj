@@ -14,10 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Application\Application.Authentication\Application.Authentication.csproj" />
     <ProjectReference Include="..\..\Domain\Entities.Authentication\CrossCutting.Authentication.csproj" />
-    <ProjectReference Include="..\..\Domain\Entities.Person\Entities.CloseFriends.csproj" />
-    <ProjectReference Include="..\..\Infra\Repositories.Authentication\Repositories.Authentication.csproj" />
   </ItemGroup>
 
 </Project>
