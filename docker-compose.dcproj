@@ -3,7 +3,7 @@
   <PropertyGroup Label="Globals">
     <ProjectVersion>2.0</ProjectVersion>
     <DockerTargetOS>Linux</DockerTargetOS>
-    <ProjectGuid>ef5ee70a-041f-4f67-b219-b55214f3188f</ProjectGuid>
+    <ProjectGuid>d6e0b910-d126-4bf7-95b0-3eb9826d615e</ProjectGuid>
     <DockerLaunchAction>LaunchBrowser</DockerLaunchAction>
     <DockerServiceUrl>http://localhost:{ServicePort}</DockerServiceUrl>
     <DockerServiceName>apiclosefriends</DockerServiceName>
