@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\ApplicationServices\ApplicationServices.CalcLog\ApplicationServices.CalcLog.csproj" />
+    <ProjectReference Include="..\..\ApplicationServices\ApplicationServices.CloseFriends\ApplicationServices.CloseFriends.csproj" />
+    <ProjectReference Include="..\..\Infra\RepositoriesServices.CloseFriends\RepositoriesServices.CloseFriends.csproj" />
+  </ItemGroup>
+
+</Project>

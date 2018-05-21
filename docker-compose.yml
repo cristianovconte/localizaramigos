@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  apiclosefriends:
+    image: apiclosefriends
+    build:
+      context: .
+      dockerfile: Presentation/APICloseFriends/Dockerfile
